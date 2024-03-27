@@ -36,7 +36,7 @@ export default function LoginForm( {setSubmitted} ) {
             <h1>Welcome back</h1>
             <div className="email-input">
                 <label htmlFor="email">Email</label>
-                <input type="email" type="email" name="email" autoComplete="email"/>
+                <input type="email" name="email" autoComplete="email"/>
             </div>
             <button disabled={isLoading} type="submit" className="large-button">
                 <div className="large-button-text">{isLoading ? "Logging in...": "Login"}</div>
