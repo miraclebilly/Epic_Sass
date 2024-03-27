@@ -1,5 +1,8 @@
-# Build a SaaS app with React
-https://epic-saas-sepia.vercel.app/
+# Epic_Saas App
+Visit App Here - https://epic-saas-sepia.vercel.app/
+
+## About
+The epic_saas app provides authentication users, users can make payments, subscribe to courses, view course.
 
 ## Technologies Used
 
